@@ -5,6 +5,9 @@ A Simple Fly Plugin for Pocketmine
 # Status:
 In progress..
 
+- [ ] Config
+- [ ] Command
+
 
 # Permissions
-- snoxyy.fly.command
+- fly.command.use
