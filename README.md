@@ -2,12 +2,12 @@
 A Simple Fly Plugin for Pocketmine
 
 
-# Status:
+### Status:
 In progress..
 
 - [ ] Config
 - [ ] Command
 
 
-# Permissions
+### Permissions
 - fly.command.use
