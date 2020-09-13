@@ -1,4 +1,4 @@
-# SnoxyyFly
+# SimpleFly
 A Simple Fly Plugin for Pocketmine
 
 ### Status:
