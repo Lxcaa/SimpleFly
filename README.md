@@ -16,6 +16,6 @@
      · 
     <a href="https://hyperiamc.de/discord">Discord</a>
      · 
-    <a href="https://github.com/Lxcaa">Startseite</a>
+    <a href="https://github.com/Lxcaa">Profile</a>
   </p>
 </p>
