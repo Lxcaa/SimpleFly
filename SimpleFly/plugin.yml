@@ -1,0 +1,11 @@
+api: ["3.0.0", "4.0.0"]
+main: Lxcaa\Main
+name: SimpleFly
+version: 1.0.0
+author: Lxcaa#4260
+description: A Simple Fly Plugin for Pocketmine
+website: https://github.com/Lxcaa
+commands:
+  fly:
+    usage: /fly
+    description: Activate/deactivate Fly

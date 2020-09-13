@@ -1,0 +1,22 @@
+# PERMISSION
+Permission: "fly.command.use"
+
+# PREFIX
+Prefix: "§l§1F§2l§3y §8| §r§7"
+
+# MESSAGES
+Enable-Fly: "You activated Fly"
+Disable-Fly: "You deactivated Fly"
+No-Permission: "You have no Permissions to use this command"
+
+# WORLD-CHANGE
+WorldChange-Disable-Fly: true
+Send-WorldChange-Message: true
+WorldChange-Message: "Fly was deactivated because you changed the world"
+
+# FLYUI (true = activated | false = deactivated)
+flyui: false
+title: "§1F§2l§3y"
+content: "§fActivate or deactivate Fly"
+button1: "§aActivate"
+button2: "§cdeactivate"
