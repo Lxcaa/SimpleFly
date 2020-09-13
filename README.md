@@ -2,7 +2,7 @@
 A Simple Fly Plugin for Pocketmine
 
 ### Status:
-In progress..
+Finished.
 - [x] Config
 - [x] Command
 - [x] FlyUI
