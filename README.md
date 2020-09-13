@@ -7,9 +7,9 @@
   <h3 align="center">- SimpleFly -</h3>
 
   <p align="center">
-    Ein Minecraft Fly Plugin für die Server Software Pocketmine
+    A Minecraft Fly plugin for the Pocketmine server software
     <br />
-    <a href="https://github.com/Lxcaa/SimpleFly/releases/download/1.0/SimpleFly.phar"><strong>Jetzt Downloaden</strong></a>
+    <a href="https://github.com/Lxcaa/SimpleFly/releases/download/1.0/SimpleFly.phar"><strong>Download now</strong></a>
     <br />
     <br />
     <a href="https://github.com/Lxcaa/SimpleFly/blob/master/SimpleFly/src/Lxcaa/Main.php">Code</a>
