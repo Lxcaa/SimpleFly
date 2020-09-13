@@ -5,5 +5,4 @@ A Simple Fly Plugin for Pocketmine
 In progress..
 - [x] Config
 - [x] Command
-- [ ] On World Change deactivate Fly
-- [ ] On Damage disable Fly
+- [x] FlyUI
