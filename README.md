@@ -8,4 +8,4 @@ Finished.
 - [x] FlyUI
 
 ### Download:
-Click [here](https://github.com/Lxcaa/SimpleFly/releases/download/1.0/SimpleFly.phar) to download
+Click [here](https://github.com/Lxcaa/SimpleFly/releases/download/1.0/SimpleFly.phar) to download the .phar file
