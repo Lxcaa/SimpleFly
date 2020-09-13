@@ -7,6 +7,3 @@ In progress..
 - [x] Command
 - [ ] On World Change deactivate Fly
 - [ ] On Damage disable Fly
-
-### Permissions
-- fly.command.use
